@@ -619,7 +619,7 @@ import mysql.connector
 import requests
 
 def obtener_datos_desde_api():
-    url = "https://raw.githubusercontent.com/Parkwhy/Parkwhy-POO-Ev3/refs/heads/main/Json"
+    url = "https://raw.githubusercontent.com/Parkwhy/POO-Ev3/refs/heads/master/Json"
     try:
         response = requests.get(url)
         response.raise_for_status()
