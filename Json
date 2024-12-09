@@ -1,0 +1,13 @@
+[
+ {
+ "rut": "20956091-7",
+ "nombre": "Bastian",
+ "apellido": "Apablaza",
+ "direccion": "Bio bio 38",
+ "fono": 57649351,
+ "correo":"Bastian.apablaza@inacapmail.cl",
+ "tipo": "Platinum",
+ "montoCredito": 500,
+ "deuda":300
+ }
+]
